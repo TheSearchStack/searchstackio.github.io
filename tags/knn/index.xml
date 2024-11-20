@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KNN on SearchScale</title>
+    <link>https://searchscale.com/tags/knn/</link>
+    <description>Recent content in KNN on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Tue, 09 Jan 2024 19:20:49 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/tags/knn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vector Search with Lucene</title>
+      <link>https://searchscale.com/blog/vector-search-with-lucene/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/vector-search-with-lucene/</guid>
+      <description>What is vector search The traditional lexical search works very well with structured data but what happens when we are dealing with unstructured data like images, video, raw text, etc?</description>
+    </item>
+  </channel>
+</rss>

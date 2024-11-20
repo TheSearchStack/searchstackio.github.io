@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SearchScale</title>
+    <link>https://searchscale.com/categories/</link>
+    <description>Recent content in Categories on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Tue, 09 Jan 2024 19:20:49 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorials</title>
+      <link>https://searchscale.com/categories/tutorials/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://searchscale.com/categories/features/</link>
+      <pubDate>Wed, 24 Feb 2021 10:00:00 +0530</pubDate>
+      <guid>https://searchscale.com/categories/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SolrCloud</title>
+      <link>https://searchscale.com/categories/solrcloud/</link>
+      <pubDate>Wed, 24 Feb 2021 10:00:00 +0530</pubDate>
+      <guid>https://searchscale.com/categories/solrcloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://searchscale.com/categories/tools/</link>
+      <pubDate>Sat, 20 Jun 2020 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/categories/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Usecases</title>
+      <link>https://searchscale.com/categories/usecases/</link>
+      <pubDate>Sat, 26 Aug 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/categories/usecases/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

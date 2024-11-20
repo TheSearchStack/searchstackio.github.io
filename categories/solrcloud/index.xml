@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SolrCloud on SearchScale</title>
+    <link>https://searchscale.com/categories/solrcloud/</link>
+    <description>Recent content in SolrCloud on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Wed, 24 Feb 2021 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/categories/solrcloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Per Replica States: Improving SolrCloud stability &amp; reliability</title>
+      <link>https://searchscale.com/blog/prs/</link>
+      <pubDate>Wed, 24 Feb 2021 10:00:00 +0530</pubDate>
+      <guid>https://searchscale.com/blog/prs/</guid>
+      <description>Solr nodes should be like cattle, not pets!&#xA;Every week, somewhere in the world, at least one DevOps engineer responsible for a non-trivially sized Solr cluster thinks like this when they deal with SolrCloud operations such as cluster restarts.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Payloads on SearchScale</title>
+    <link>https://searchscale.com/tags/payloads/</link>
+    <description>Recent content in Payloads on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Sat, 26 Aug 2017 19:20:49 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/tags/payloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Payloads: Boost Popular Products for Queries</title>
+      <link>https://searchscale.com/blog/payloads/</link>
+      <pubDate>Sat, 26 Aug 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/payloads/</guid>
+      <description>New Support for Payloads in Solr Support for payloads existed in Lucene since long, but good out of the box support for payloads in Solr has finally been introduced in version 6.</description>
+    </item>
+  </channel>
+</rss>

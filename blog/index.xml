@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SearchScale Blog on SearchScale</title>
+    <link>https://searchscale.com/blog/</link>
+    <description>Recent content in SearchScale Blog on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Tue, 09 Jan 2024 19:20:49 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vector Search with Lucene</title>
+      <link>https://searchscale.com/blog/vector-search-with-lucene/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/vector-search-with-lucene/</guid>
+      <description>What is vector search The traditional lexical search works very well with structured data but what happens when we are dealing with unstructured data like images, video, raw text, etc?</description>
+    </item>
+    <item>
+      <title>Per Replica States: Improving SolrCloud stability &amp; reliability</title>
+      <link>https://searchscale.com/blog/prs/</link>
+      <pubDate>Wed, 24 Feb 2021 10:00:00 +0530</pubDate>
+      <guid>https://searchscale.com/blog/prs/</guid>
+      <description>Solr nodes should be like cattle, not pets!&#xA;Every week, somewhere in the world, at least one DevOps engineer responsible for a non-trivially sized Solr cluster thinks like this when they deal with SolrCloud operations such as cluster restarts.</description>
+    </item>
+    <item>
+      <title>Solr Bench: Performance Benchmarking Suite</title>
+      <link>https://searchscale.com/blog/solr-bench/</link>
+      <pubDate>Sat, 20 Jun 2020 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/solr-bench/</guid>
+      <description>What is Solr Bench? Solr Bench is a flexible, configurable benchmarking suite for Solr.</description>
+    </item>
+    <item>
+      <title>Getting Started with Apache Solr</title>
+      <link>https://searchscale.com/blog/starting/</link>
+      <pubDate>Sat, 02 Dec 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/starting/</guid>
+      <description>What is Solr? In simple words, it is a search engine.</description>
+    </item>
+    <item>
+      <title>Payloads: Boost Popular Products for Queries</title>
+      <link>https://searchscale.com/blog/payloads/</link>
+      <pubDate>Sat, 26 Aug 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/payloads/</guid>
+      <description>New Support for Payloads in Solr Support for payloads existed in Lucene since long, but good out of the box support for payloads in Solr has finally been introduced in version 6.</description>
+    </item>
+  </channel>
+</rss>

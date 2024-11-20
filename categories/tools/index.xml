@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on SearchScale</title>
+    <link>https://searchscale.com/categories/tools/</link>
+    <description>Recent content in Tools on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Sat, 20 Jun 2020 19:20:49 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solr Bench: Performance Benchmarking Suite</title>
+      <link>https://searchscale.com/blog/solr-bench/</link>
+      <pubDate>Sat, 20 Jun 2020 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/blog/solr-bench/</guid>
+      <description>What is Solr Bench? Solr Bench is a flexible, configurable benchmarking suite for Solr.</description>
+    </item>
+  </channel>
+</rss>

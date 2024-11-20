@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SearchScale</title>
+    <link>https://searchscale.com/tags/</link>
+    <description>Recent content in Tags on SearchScale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 SearchScale</copyright>
+    <lastBuildDate>Tue, 09 Jan 2024 19:20:49 +0530</lastBuildDate>
+    <atom:link href="https://searchscale.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KNN</title>
+      <link>https://searchscale.com/tags/knn/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/knn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://searchscale.com/tags/llm/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lucene</title>
+      <link>https://searchscale.com/tags/lucene/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/lucene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>https://searchscale.com/tags/openai/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vector Search</title>
+      <link>https://searchscale.com/tags/vector-search/</link>
+      <pubDate>Tue, 09 Jan 2024 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/vector-search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SolrCloud</title>
+      <link>https://searchscale.com/tags/solrcloud/</link>
+      <pubDate>Wed, 24 Feb 2021 10:00:00 +0530</pubDate>
+      <guid>https://searchscale.com/tags/solrcloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intermediate</title>
+      <link>https://searchscale.com/tags/intermediate/</link>
+      <pubDate>Sat, 20 Jun 2020 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/intermediate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>https://searchscale.com/tags/performance/</link>
+      <pubDate>Sat, 20 Jun 2020 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beginner</title>
+      <link>https://searchscale.com/tags/beginner/</link>
+      <pubDate>Sat, 02 Dec 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/beginner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://searchscale.com/tags/tutorial/</link>
+      <pubDate>Sat, 02 Dec 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advanced</title>
+      <link>https://searchscale.com/tags/advanced/</link>
+      <pubDate>Sat, 26 Aug 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/advanced/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Payloads</title>
+      <link>https://searchscale.com/tags/payloads/</link>
+      <pubDate>Sat, 26 Aug 2017 19:20:49 +0530</pubDate>
+      <guid>https://searchscale.com/tags/payloads/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
